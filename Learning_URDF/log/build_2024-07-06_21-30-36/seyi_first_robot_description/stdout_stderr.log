@@ -1,0 +1,26 @@
+-- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/srobot/seyi_ros2_ws/build/seyi_first_robot_description
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description//urdf/seyi_first_robot.urdf.xacro
+-- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description//launch/display.launch.py
+-- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description//launch/display.launch.xml
+-- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description//rviz/urdf_config.rviz
+-- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/ament_index/resource_index/package_run_dependencies/seyi_first_robot_description
+-- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/ament_index/resource_index/parent_prefix_path/seyi_first_robot_description
+-- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/environment/ament_prefix_path.sh
+-- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/environment/ament_prefix_path.dsv
+-- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/environment/path.sh
+-- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/environment/path.dsv
+-- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/local_setup.bash
+-- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/local_setup.sh
+-- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/local_setup.zsh
+-- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/local_setup.dsv
+-- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/package.dsv
+-- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/ament_index/resource_index/packages/seyi_first_robot_description
+-- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/cmake/seyi_first_robot_descriptionConfig.cmake
+-- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/cmake/seyi_first_robot_descriptionConfig-version.cmake
+-- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/package.xml

@@ -1,0 +1,32 @@
+[0.011s] Invoking command in '/home/srobot/seyi_ros2_ws/build/seyi_first_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/srobot/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/srobot/seyi_ros2_ws/src/seyi_first_robot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/srobot/seyi_ros2_ws/install/seyi_first_robot_description
+[0.022s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.136s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.207s] -- Configuring done
+[0.209s] -- Generating done
+[0.210s] -- Build files have been written to: /home/srobot/seyi_ros2_ws/build/seyi_first_robot_description
+[0.212s] Invoked command in '/home/srobot/seyi_ros2_ws/build/seyi_first_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/srobot/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake /home/srobot/seyi_ros2_ws/src/seyi_first_robot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/srobot/seyi_ros2_ws/install/seyi_first_robot_description
+[0.214s] Invoking command in '/home/srobot/seyi_ros2_ws/build/seyi_first_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/srobot/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/srobot/seyi_ros2_ws/build/seyi_first_robot_description -- -j12 -l12
+[0.250s] Invoked command in '/home/srobot/seyi_ros2_ws/build/seyi_first_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/srobot/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/srobot/seyi_ros2_ws/build/seyi_first_robot_description -- -j12 -l12
+[0.278s] Invoking command in '/home/srobot/seyi_ros2_ws/build/seyi_first_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/srobot/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/srobot/seyi_ros2_ws/build/seyi_first_robot_description
+[0.285s] -- Install configuration: ""
+[0.285s] -- Execute custom install script
+[0.285s] -- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description//urdf/seyi_first_robot.urdf.xacro
+[0.294s] -- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description//launch/display.launch.py
+[0.302s] -- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description//launch/display.launch.xml
+[0.310s] -- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description//rviz/urdf_config.rviz
+[0.318s] -- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/ament_index/resource_index/package_run_dependencies/seyi_first_robot_description
+[0.326s] -- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/ament_index/resource_index/parent_prefix_path/seyi_first_robot_description
+[0.334s] -- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/environment/ament_prefix_path.sh
+[0.342s] -- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/environment/ament_prefix_path.dsv
+[0.351s] -- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/environment/path.sh
+[0.361s] -- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/environment/path.dsv
+[0.369s] -- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/local_setup.bash
+[0.378s] -- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/local_setup.sh
+[0.386s] -- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/local_setup.zsh
+[0.394s] -- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/local_setup.dsv
+[0.402s] -- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/package.dsv
+[0.410s] -- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/ament_index/resource_index/packages/seyi_first_robot_description
+[0.419s] -- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/cmake/seyi_first_robot_descriptionConfig.cmake
+[0.427s] -- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/cmake/seyi_first_robot_descriptionConfig-version.cmake
+[0.436s] -- Symlinking: /home/srobot/seyi_ros2_ws/install/seyi_first_robot_description/share/seyi_first_robot_description/package.xml
+[0.446s] Invoked command in '/home/srobot/seyi_ros2_ws/build/seyi_first_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/srobot/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/srobot/seyi_ros2_ws/build/seyi_first_robot_description
